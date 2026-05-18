@@ -19,3 +19,4 @@
 * [Tools & Templates](additional-resources/additional-resources.md)
 * [Minimum Viable Evaluations](additional-resources/minimum-viable-evaluations.md)
 * [Glossary](additional-resources/glossary.md)
+* [Using the Playbook with AI Tools](additional-resources/using-the-playbook-with-ai-tools.md)
